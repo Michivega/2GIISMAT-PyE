@@ -1,0 +1,7 @@
+---
+tags: #def
+---
+
+
+[[DISTRIBUCIÓN BINOMIAL NEGATIVA]]
+[[DISTRIBUCIÓN HIPERGEOMÉTRICA]]

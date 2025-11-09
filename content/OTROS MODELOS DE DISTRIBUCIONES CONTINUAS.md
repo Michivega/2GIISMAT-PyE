@@ -1,0 +1,7 @@
+---
+tags: #def
+---
+
+[[DISTRIBUCIÓN GAMMA]]
+[[DISTRIBUCIÓN JI-CUADRADO]]
+[[DISTRIBUCIÓN BETA]]
