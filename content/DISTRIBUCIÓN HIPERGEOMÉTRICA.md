@@ -13,5 +13,3 @@ tags:
 **Media:** $E(X) = n \cdot \frac{D}{N}$
 
 **Varianza:** $\text{Var}(X) = n \cdot \frac{D}{N} \cdot \frac{N-D}{N} \cdot \frac{N-n}{N-1}$
-
-**Relacionado con:** [[DISTRIBUCIÓN BINOMIAL]]

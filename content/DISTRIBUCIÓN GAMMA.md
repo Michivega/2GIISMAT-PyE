@@ -15,4 +15,4 @@ tags:
 
 **Varianza:** $\text{Var}(X) = \frac{p}{a^2}$
 
-**Relacionado con:** [[DISTRIBUCIÓN EXPONENCIAL]], [[DISTRIBUCIÓN JI-CUADRADO]]
+**Relacionado con:** [[DISTRIBUCIÓN EXPONENCIAL]]

@@ -16,5 +16,3 @@ tags:
 **Media:** $E(X) = np$
 
 **Varianza:** $\text{Var}(X) = np(1-p)$
-
-**Relacionado con:** [[EXPERIMENTO DE BERNOULLI]], [[DISTRIBUCIÓN DE BERNOULLI]]

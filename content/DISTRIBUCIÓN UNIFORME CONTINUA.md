@@ -13,5 +13,3 @@ tags:
 **Media:** $E(X) = \frac{a+b}{2}$
 
 **Varianza:** $\text{Var}(X) = \frac{(b-a)^2}{12}$
-
-**Relacionado con:** [[MODELOS DE DISTRIBUCIONES PARA VARIABLES ALEATORIAS CONTINUAS]]

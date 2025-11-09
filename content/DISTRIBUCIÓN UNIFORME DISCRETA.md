@@ -13,5 +13,3 @@ tags:
 **Media:** $E(X) = \frac{x_1 + \ldots + x_n}{n}$
 
 **Varianza:** $\text{Var}(X) = \frac{x_1^2 + \ldots + x_n^2}{n} - \left(\frac{x_1 + \ldots + x_n}{n}\right)^2$
-
-**Relacionado con:** [[MODELOS DE DISTRIBUCIONES PARA VARIABLES ALEATORIAS DISCRETAS]]

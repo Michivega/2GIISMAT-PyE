@@ -14,5 +14,3 @@ tags:
 **Media:** $E(X) = \frac{1}{\lambda}$
 
 **Varianza:** $\text{Var}(X) = \frac{1}{\lambda^2}$
-
-**Relacionado con:** [[DISTRIBUCIÓN DE POISSON]], [[DISTRIBUCIÓN GAMMA]]

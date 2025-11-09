@@ -16,5 +16,3 @@ tags:
 **Media:** $E(X) = \frac{1-p}{p}$
 
 **Varianza:** $\text{Var}(X) = \frac{1-p}{p^2}$
-
-**Relacionado con:** [[EXPERIMENTO DE BERNOULLI]]

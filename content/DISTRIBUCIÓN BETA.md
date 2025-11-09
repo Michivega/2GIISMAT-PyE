@@ -15,5 +15,3 @@ tags:
 **Media:** $E(X) = \frac{p}{p+q}$
 
 **Varianza:** $\text{Var}(X) = \frac{pq}{(p+q)^2(p+q+1)}$
-
-**Relacionado con:** [[DISTRIBUCIÓN UNIFORME CONTINUA]]

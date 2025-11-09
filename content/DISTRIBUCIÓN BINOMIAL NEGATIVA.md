@@ -14,5 +14,3 @@ tags:
 **Media:** $E(X) = \frac{n(1-p)}{p}$
 
 **Varianza:** $\text{Var}(X) = \frac{n(1-p)}{p^2}$
-
-**Relacionado con:** [[DISTRIBUCIÓN DE PASCAL O GEOMÉTRICA]]
